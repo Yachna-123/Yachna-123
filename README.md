@@ -37,7 +37,7 @@ Full-stack MERN app with JWT auth, real-time search, dynamic filters, and recomm
 
 ## 📊 GitHub Stats
 
-![Yachna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yachna-123&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Yachna-123&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
@@ -54,5 +54,4 @@ Full-stack MERN app with JWT auth, real-time search, dynamic filters, and recomm
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yachna%20Shivali-blue)](https://linkedin.com/in/yachna-shivali)
 [![LeetCode](https://img.shields.io/badge/LeetCode-yachna--shivali-orange)](https://leetcode.com/u/yachna-shivali)
 📬 shivaliyachna@gmail.com
-
 
